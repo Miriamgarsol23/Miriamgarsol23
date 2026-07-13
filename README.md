@@ -76,14 +76,15 @@ Here is a curated selection of my applied work:
 
 | Recognition | Year |
 |---|---|
-| 🥈 2nd Prize — IX UGR Ideas Competition (Faculty of Science) | 2026 |
-| 🔐 CyberBootcamp Málaga 2026 — funded by Google.org / NICS Lab | 2026 |
-| 👩‍💼 Female Talent Award Finalist — Tikehau Capital / Fundación JAES | 2026 |
-| ⭐ Los 300 Sputnik — Top 25 of 500 scholars (VI Edition) | 2025 |
-| 🚀 Sputnik Scholarship VI Edition — Bootcamp · TechCamp · Startup Camp | 2025 |
-| 🌟 Young Talent of Seville — La Fábrica de Sevilla | 2025 |
-| 🌍 Finalist — Becas Europa | 2023 |
-| 🏆 Best Academic Record — Baccalaureate graduating class (9.9/10 · IB 40/45) | 2023 |
+| 🥈 2nd Prize IX UGR Ideas Competition (Faculty of Science) | 2026 |
+| 🔐 CyberBootcamp Málaga 2026 (funded by Google.org / NICS Lab) | 2026 |
+| 👩‍💼 Female Talent Award Finalist (Tikehau Capital / Fundación JAES) | 2026 |
+| ⭐ Los 300 Sputnik - Top 25 of 500 scholars (VI Edition) | 2025 |
+| 🚀 Sputnik Scholarship VI Edition (Fundación El Mundo Que Viene) | 2025 |
+| 🗣️ Seminario Líderes del Futuro (Fundación Eduarda Justo - Cosentino) | 2025 |
+| 🌟 Young Talent of Seville (La Fábrica de Sevilla) | 2025 |
+| 🌍 Finalist — Becas Europa (Santander / UFV) | 2023 |
+| 🏆 Best Academic Record Baccalaureate graduating class (9.9/10 · IB 40/45) | 2023 |
 
 ---
 
