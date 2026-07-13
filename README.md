@@ -106,6 +106,6 @@ I'm always open to collaborating on projects bridging **cybersecurity, data, AI 
 
 [![Email](https://img.shields.io/badge/Email-miriamgarciasollo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miriamgarciasollo@gmail.com)
 [![Emprendus](https://img.shields.io/badge/Emprendus-emprendus.com-1D6FA8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.emprendus.com/)
-[![LinkedIn](www.linkedin.com/in/miriam-garcía-sollo-11b90535a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/miriam-garcía-sollo-11b90535a)
 
 > *"The most powerful solutions sit at the intersection of mathematics, engineering and the courage to build something new."*
