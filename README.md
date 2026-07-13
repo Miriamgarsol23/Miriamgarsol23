@@ -59,13 +59,13 @@ Welcome to my GitHub! I'm a **Double Bachelor's Degree student in Computer Scien
 
 Here is a curated selection of my applied work:
 
-- 🌑 **[DarkNav — Lunar Crater Detection with ML]([https://github.com/](https://github.com/Miriamgarsol23/darknav))** 
+- 🌑 **[DarkNav: Lunar Crater Detection with ML]([https://github.com/](https://github.com/Miriamgarsol23/darknav))** 
   U-Net segmentation model for crater detection in DEM lunar patches. Novel physics-informed synthetic pretraining using NFW dark matter halo density profiles. Built with PyTorch and deployed via ONNX Runtime.
 
-- 🌐 **[Emprendus — Official Website](https://www.emprendus.com/)**
+- 🌐 **[Emprendus · Official Website](https://www.emprendus.com/)**
   Design, development and maintenance of the website for Seville's student tech & entrepreneurship community. Front-end engineering with focus on UX and performance.
 
-- 📱 **[Club Atletismo Los Lentos — Web & App](https://www.clubatletismoloslentos.es/)**
+- 📱 **[Club Atletismo Los Lentos · Web & App](https://www.clubatletismoloslentos.es/)**
   Full web development and maintenance of the club's site and [mobile app](https://www.clubatletismoloslentos.es/app/#login). 
 
 
