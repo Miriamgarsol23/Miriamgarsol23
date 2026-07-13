@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm a **Double Bachelor's Degree student in Computer Scien
 - 🌍 **International projection:** Incoming Erasmus+ exchange student at the **Università degli Studi di Salerno** (Italy) for the 2026/27 academic year. 
 - 🏃‍♀️ **High-Performance Athlete** recognised by the Royal Spanish Athletics Federation (RFEA).
 - 💡 **Teaching & communication:** Private tutor at **GoStudent** in Technology, Mathematics, Physics and Chemistry. Breaking down hard problems clearly is a skill I apply to code documentation too.
-- 🏆 **Other recognitions:** Sputnik Scholarship VI Edition · Los 300 Sputnik (top 25 of 500 scholars) · Female Talent Award 2026 Finalist (Tikehau Capital / Fundación JAES) · Young Talent of Seville 2025.
 
 ---
 
