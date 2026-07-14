@@ -82,7 +82,7 @@ Here is a curated selection of my applied work:
 | 🚀 Sputnik Scholarship VI Edition (Fundación El Mundo Que Viene) | 2025 |
 | 🗣️ Seminario Líderes del Futuro (Fundación Eduarda Justo - Cosentino) | 2025 |
 | 🌟 Young Talent of Seville (La Fábrica de Sevilla) | 2025 |
-| 🌍 Finalist — Becas Europa (Santander / UFV) | 2023 |
+| 🌍 Finalist Becas Europa (Santander / UFV) | 2023 |
 | 🏆 Best Academic Record Baccalaureate graduating class (9.9/10 · IB 40/45) | 2023 |
 
 ---
